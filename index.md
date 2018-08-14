@@ -8,7 +8,9 @@ layout: default
 
 ## Intern student/Undergraduate
 
-## Experience
+
+
+# Experience
 
 **Intern (03/2018 - Present)** :
 
@@ -18,12 +20,13 @@ Institute of Computer Science and Technology, Peking University
 
 Department of Machine Intelligence, Peking University
 
-## Research Interest
+# Research Interest
 
 *   Image style transfer
 *   Computer vision
 
-## Contact me
+# Contact me
 
 **Email** yankeqiang@pku.edu.cn
+
 **Github** https://github.com/YKQ98

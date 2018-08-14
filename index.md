@@ -28,6 +28,6 @@ layout: default
 
 # Contact me
 
-### **Email**  :yankeqiang@pku.edu.cn
+### **Email**  : yankeqiang@pku.edu.cn
 
-### **Github** :https://github.com/YKQ98
+### **Github** : https://github.com/YKQ98

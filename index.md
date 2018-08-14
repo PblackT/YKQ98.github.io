@@ -4,9 +4,10 @@ layout: default
 
 # Keqiang Yan
 
-![Octocat](./photos/IMG.PNG)
-
 ## Intern student/Undergraduate
+
+![Octocat](./photos/IMG.JPG)
+
 
 
 

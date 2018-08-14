@@ -4,7 +4,7 @@ layout: default
 
 # Keqiang Yan
 
-![Octocat](./photos/IMG.JPG)
+![Octocat](./photos/IMG.PNG)
 
 ## Intern student/Undergraduate
 
@@ -12,21 +12,21 @@ layout: default
 
 # Experience
 
-**Intern (03/2018 - Present)** :
+### **Intern (03/2018 - Present)** :
 
-Institute of Computer Science and Technology, Peking University
+### Institute of Computer Science and Technology, Peking University
 
-**Undergraduate (09/2016 - Present)** :
+### **Undergraduate (09/2016 - Present)** :
 
-Department of Machine Intelligence, Peking University
+### Department of Machine Intelligence, Peking University
 
 # Research Interest
 
-*   Image style transfer
-*   Computer vision
+### *   Image style transfer
+### *   Computer vision
 
 # Contact me
 
-**Email** yankeqiang@pku.edu.cn
+### **Email**  :yankeqiang@pku.edu.cn
 
-**Github** https://github.com/YKQ98
+### **Github** :https://github.com/YKQ98
